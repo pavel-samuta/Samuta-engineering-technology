@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://pavelsamuta.com/#pavel-samuta",
+  "name": "Pavel Samuta",
+  "alternateName": [
+    "Pavel Alexandrovich Samuta",
+    "Павел Самута",
+    "Павел Александрович Самута"
+  ],
+  "birthDate": "1987-07-12",
+  "nationality": {
+    "@type": "Country",
+    "name": "Belarus"
+  },
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Minsk, Belarus"
+  },
+  "jobTitle": [
+    "Mechanical Engineer",
+    "R&D Technical Partner",
+    "Reverse Engineering Specialist",
+    "Industrial Localization Specialist",
+    "Инженер-механик",
+    "Технический партнёр по НИОКР",
+    "Специалист по реверс-инжинирингу"
+  ],
+  "description": "Belarusian mechanical engineer with 18+ years of industrial experience in R&D, reverse engineering, import substitution, localization, design documentation recovery, technical audit, design for manufacturing and engineering economics.",
+  "url": "https://pavelsamuta.com/",
+  "sameAs": [
+    "https://github.com/pavel-samuta",
+    "https://www.linkedin.com/in/pavelsamuta/",
+    "https://orcid.org/0009-0001-9490-5630",
+    "https://www.researchgate.net/profile/Pavel-Samuta",
+    "https://tenchat.ru/pavelsamuta",
+    "https://vk.com/pavelsamuta",
+    "https://dzen.ru/samuta_engineering",
+    "https://www.youtube.com/@pavelsamuta",
+    "https://www.threads.com/@pavelsamuta",
+    "https://www.facebook.com/pavelsamuta/",
+    "https://www.tiktok.com/@pavelsamuta",
+    "https://pavel-samuta.livejournal.com/",
+    "https://pressfeed.ru/people/109697",
+    "https://habr.com/ru/users/pavelsamuta/"
+  ],
+  "knowsAbout": [
+    "Mechanical engineering",
+    "Industrial engineering",
+    "Reverse engineering",
+    "R&D",
+    "Import substitution",
+    "Industrial localization",
+    "Design documentation recovery",
+    "Design for manufacturing",
+    "Technical audit",
+    "Critical spare parts",
+    "Supplier technical verification",
+    "CAD",
+    "CAE",
+    "FEA",
+    "Engineering economics",
+    "Total cost of ownership",
+    "ГОСТ",
+    "ЕСКД",
+    "ISO",
+    "DIN",
+    "ASME"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Samuta Engineering & Technology",
+    "url": "https://pavelsamuta.com/"
+  },
+  "subjectOf": [
+    {
+      "@type": "Article",
+      "name": "Инженер Павел Самута: забудьте о «сборочном цехе Союза» и посмотрите в глаза печальной реальности",
+      "url": "https://people.onliner.by/opinions/2018/03/13/mnenie-885",
+      "publisher": {"@type": "Organization", "name": "Onlíner"}
+    },
+    {
+      "@type": "Article",
+      "name": "Павел Самута: «Заказчику больше не приходится ждать поставок из-за рубежа»",
+      "url": "https://ru-bezh.ru/intervyu/54870-pavel-samuta-zakazchiku-bolshe-ne-prihoditsya-zhdat-postavok-iz",
+      "publisher": {"@type": "Organization", "name": "RUБЕЖ"}
+    },
+    {
+      "@type": "WebPage",
+      "name": "Павел Самута - эксперт",
+      "url": "https://www.kp.ru/edu/spetsialisty/pavel-samuta/",
+      "publisher": {"@type": "Organization", "name": "Комсомольская правда"}
+    }
+  ]
+}
